@@ -7,7 +7,7 @@ Regression model trained on the kaggle dataset https://www.kaggle.com/harlfoxem/
 
 * Data analysis
 
-* Data visulaisation
+* Data visualization
 
 * Feature engineering
 
