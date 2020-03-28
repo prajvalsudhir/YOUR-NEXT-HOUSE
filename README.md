@@ -5,10 +5,10 @@ Regression model trained on the kaggle dataset https://www.kaggle.com/harlfoxem/
 
 ### TOPIC FOCUS:
 
-*Data analysis
+* Data analysis
 
-*Data visulaisation
+* Data visulaisation
 
-*Feature engineering
+* Feature engineering
 
-*Model training and performance evaluation
+* Model training and performance evaluation
